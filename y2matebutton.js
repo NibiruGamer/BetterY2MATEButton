@@ -2,7 +2,7 @@
 // @name        Better Y2mate Converter Button
 // @namespace   https://y2mate.com/
 // @version     1.6
-// @date        2021-10-12
+// @date        2023-05-19
 // @author      Original: A koi. Edited by https://nibirugamer.dev
 // @description Better Y2mate Downloader: Better download button design than original script, designed for youtube dark mode.
 // @homepage    https://y2mate.com/
